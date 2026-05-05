@@ -27,6 +27,7 @@ A simple and scalable Job Management Web Application built using **Spring Boot (
 
 ## 📁 Project Structure
 
+```
 jobapp/
 │
 ├── src/main/java/com/itsdharm/jobapp/
@@ -50,6 +51,7 @@ jobapp/
 ├── .gitattributes
 ├── README.md
 └── pom.xml
+```
 
 ---
 
