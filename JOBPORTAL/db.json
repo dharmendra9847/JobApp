@@ -1,0 +1,121 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "postProfile": "Java Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "2",
+      "postProfile": "Ts Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "3",
+      "postProfile": "Js Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "4",
+      "postProfile": "React Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "91PlWxw_zLc",
+      "postProfile": "Python Backend Engineer",
+      "postDesc": "Expertise in building scalable microservices and RESTful APIs.",
+      "reqExperience": 4,
+      "postTechStack": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ]
+    },
+    {
+      "id": "T8-FT3R-Feo",
+      "postProfile": "DevOps Engineer",
+      "postDesc": "Responsible for CI/CD pipeline automation and cloud infrastructure.",
+      "reqExperience": 6,
+      "postTechStack": [
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Jenkins"
+      ]
+    },
+    {
+      "id": "K-DO7t6AEFE",
+      "postProfile": "Data Scientist",
+      "postDesc": "Focus on predictive modeling and deep learning integration.",
+      "reqExperience": 3,
+      "postTechStack": [
+        "Python",
+        "PyTorch",
+        "Scikit-learn",
+        "SQL"
+      ]
+    },
+    {
+      "id": "GaEgmF3CNmY",
+      "postProfile": "Mobile App Developer",
+      "postDesc": "Developing high-performance cross-platform mobile applications.",
+      "reqExperience": 2,
+      "postTechStack": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Git"
+      ]
+    },
+    {
+      "id": "fZl_k8wBS58",
+      "postProfile": "UI/UX Designer",
+      "postDesc": "Creating intuitive user interfaces and interactive prototypes.",
+      "reqExperience": 4,
+      "postTechStack": [
+        "Figma",
+        "Adobe XD",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "1k4m-evgz6k",
+      "postProfile": "UI/UX Designer",
+      "postDesc": "Creating intuitive user interfaces and interactive prototypes.",
+      "reqExperience": 4,
+      "postTechStack": [
+        "Figma",
+        "Adobe XD",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
