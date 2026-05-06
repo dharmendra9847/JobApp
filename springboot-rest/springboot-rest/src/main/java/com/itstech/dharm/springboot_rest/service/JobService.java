@@ -12,4 +12,8 @@ public interface JobService {
     void updateJob(JobPost job);
 
     void deleteJob(int postId);
+
+    void load();
+
+    List<JobPost> searchJob(String keyword);
 }

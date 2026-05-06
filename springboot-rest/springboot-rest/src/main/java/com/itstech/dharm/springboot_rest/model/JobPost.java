@@ -1,5 +1,6 @@
 package com.itstech.dharm.springboot_rest.model;
 
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -11,7 +12,9 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Component
+@Entity
 public class JobPost {
+    @Id
     private int postId;
     private String postProfile;
     private String postDesc;
