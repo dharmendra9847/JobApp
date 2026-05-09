@@ -60,5 +60,5 @@ jobapp/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/dharmendra9847/JobApp.git
-cd jobapp
+git clone https://github.com/dharmendra9847/JOBPORTAL.git
+cd JOBPORTAL
