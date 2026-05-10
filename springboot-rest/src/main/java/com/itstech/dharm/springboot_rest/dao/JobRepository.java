@@ -1,4 +1,4 @@
-package com.itstech.dharm.springboot_rest.repositories;
+package com.itstech.dharm.springboot_rest.dao;
 
 import com.itstech.dharm.springboot_rest.model.JobPost;
 import org.springframework.data.jpa.repository.JpaRepository;

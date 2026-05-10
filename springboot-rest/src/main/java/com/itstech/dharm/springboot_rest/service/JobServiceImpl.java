@@ -1,7 +1,7 @@
 package com.itstech.dharm.springboot_rest.service;
 
 import com.itstech.dharm.springboot_rest.model.JobPost;
-import com.itstech.dharm.springboot_rest.repositories.JobRepository;
+import com.itstech.dharm.springboot_rest.dao.JobRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
